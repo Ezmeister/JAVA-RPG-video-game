@@ -1,0 +1,48 @@
+{
+    "knownNobles": {"nobles": []},
+    "strength": 10,
+    "money": 50,
+    "moneySpent": 250,
+    "backpack": {
+        "items": [
+            {
+                "damage": 5,
+                "cost": 50,
+                "name": "Iron Sword",
+                "type": "weapon"
+            },
+            {
+                "damage": 8,
+                "cost": 80,
+                "name": "Steel Sword",
+                "type": "weapon"
+            },
+            {
+                "damage": 10,
+                "cost": 100,
+                "name": "Knight Lance",
+                "type": "weapon"
+            },
+            {
+                "damage": 10,
+                "cost": 100,
+                "name": "Knight Lance",
+                "type": "weapon"
+            },
+            {
+                "damage": 3,
+                "cost": 40,
+                "name": "Leather Armor",
+                "type": "armor"
+            },
+            {
+                "damage": 14,
+                "cost": 140,
+                "name": "Royal Shield",
+                "type": "armor"
+            }
+        ],
+        "capacity": 12
+    },
+    "peopleSaved": 0
+}

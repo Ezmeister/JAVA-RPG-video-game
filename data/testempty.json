@@ -1,0 +1,11 @@
+{
+    "knownNobles": {"nobles": []},
+    "strength": 50,
+    "money": 300,
+    "moneySpent": 0,
+    "backpack": {
+        "items": [],
+        "capacity": 12
+    },
+    "peopleSaved": 0
+}

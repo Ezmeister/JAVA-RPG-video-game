@@ -1,0 +1,26 @@
+
+{
+    "knownNobles": {"nobles": [{"name":"Arthur","title":"Duke","prestige":25}]},
+    "strength": 50,
+    "money": 199,
+    "moneySpent": 101,
+    "backpack": {
+        "items": [{
+            "damage": 40,
+            "cost": 81,
+            "name": "Sword",
+            "type": "Weapon"
+        },
+                    {
+            "damage": 0,
+            "cost": 20,
+            "name": "Potion",
+            "type": "Consumable"
+        }
+                
+    
+    ],
+        "capacity": 12
+    },
+    "peopleSaved": 3
+}

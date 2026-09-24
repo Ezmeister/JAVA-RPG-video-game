@@ -1,0 +1,28 @@
+{
+    "knownNobles": {"nobles": [{
+        "name": "Elaine",
+        "title": "Countess",
+        "prestige": 18
+    }]},
+    "strength": 80,
+    "money": 380,
+    "moneySpent": 120,
+    "backpack": {
+        "items": [
+            {
+                "damage": 55,
+                "cost": 120,
+                "name": "Axe",
+                "type": "Weapon"
+            },
+            {
+                "damage": 0,
+                "cost": 10,
+                "name": "Herb",
+                "type": "Consumable"
+            }
+        ],
+        "capacity": 12
+    },
+    "peopleSaved": 7
+}
